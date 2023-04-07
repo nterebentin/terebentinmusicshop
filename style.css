@@ -1,0 +1,32 @@
+body {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    background-color: #e5e4e277;
+}
+
+.about-us {
+    text-align: left;
+}
+
+.product-list {
+    list-style-position: inside;
+}
+
+.nav-header {
+    color: #3f0409;
+}
+
+.article-header {
+    color: purple;
+}
+
+.product {
+    width: 600px;
+    height: 600px;
+    border-radius: 25px;
+    background-color: rgb(246, 207, 199);
+    padding: 10px;
+    width: auto;
+    height: auto;
+}
+
